@@ -95,7 +95,7 @@ I am a hard-working and driven individual who isn't afraid to face a challenge.
 
 ## 📈 MY GITHUB STATS
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SavindiRanaweera&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Savindi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SavindiRanaweera&show_icons=true&theme=github_dark)](https://github.com/SavindiRanaweera)
 
 
 
